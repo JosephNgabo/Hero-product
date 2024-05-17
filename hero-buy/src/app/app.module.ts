@@ -20,7 +20,6 @@ import { AdminOrdersComponent } from './admin/admin-orders/admin-orders.componen
 import { RouterModule } from '@angular/router';
 import { LoginComponent } from './login/login.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
-import { ProtectedComponent } from './protected/protected.component';
 
 @NgModule({
   declarations: [
@@ -34,9 +33,8 @@ import { ProtectedComponent } from './protected/protected.component';
     MyOrdersComponent,
     LoginComponent,
     AdminProductsComponent,
-    AdminOrdersComponent,
-    ProtectedComponent
-  ],
+    AdminOrdersComponent
+    ],
   imports: [
     BrowserModule,
     AppRoutingModule,

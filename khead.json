@@ -1,0 +1,266 @@
+[
+    {
+        "id_base": 1,
+        "id_page": 2,
+        "id_lang": 1,
+        "heading": "Group",
+        "subheading": "Access Management",
+        "description": "Groups refer to a collection of users and policies that determine permissions for that group. To create a group, users must first create policies and users, and then add them to the group. This allows for efficient and effective management of permissions for multiple users at once."
+    },
+    {
+        "id_base": 2,
+        "id_page": 4,
+        "id_lang": 1,
+        "heading": "Policy",
+        "subheading": "Access Management",
+        "description": "A policy is a permission set that enables access to specific pages for different types of users. They can be customized to allow varying levels of access and are regularly updated to reflect changes in user roles or organizational structure. Clear policies are vital for ensuring fair and consistent access across all users."
+    },
+    {
+        "id_base": 3,
+        "id_page": 6,
+        "id_lang": 1,
+        "heading": "Users",
+        "subheading": "Access Management",
+        "description": "Users play a critical role in business applications as they access and perform banking operations such as transferring funds, checking account balances, and paying bills. A user-friendly interface is important for enhancing the user experience and increasing customer satisfaction. Developers must prioritize the security of user data to protect against cyber attacks and security breaches, while also providing additional features such as viewing transaction history, updating personal information, and communicating with customer support through the application."
+    },
+    {
+        "id_base": 4,
+        "id_page": 15,
+        "id_lang": 1,
+        "heading": "Workflow",
+        "subheading": "Workflow Management",
+        "description": "Workflow is a powerful approval mechanism that enables the processing of requests submitted by users, managed by privileged users who can approve or reject requests. It ensures efficiency and transparency in the process, defining roles and responsibilities for each user, allowing tracking of request status and timely decision-making. This component is critical for efficient and effective request management, ensuring timely and effective handling of requests while streamlining the approval process."
+    },
+    {
+        "id_base": 5,
+        "id_page": 8,
+        "id_lang": 1,
+        "heading": "New Client",
+        "subheading": "Client Management",
+        "description": "Adbanking offers flexible ways to create new clients, including foreign, resident, business, informal, and solidarity group clients. KYC process is mandatory for compliance, verifying personal information, and documentation, and assigning a default savings account number upon approval. Adbanking's client management system provides a secure and efficient way to manage clients while streamlining the creation process, reducing the risk of financial crimes, and protecting customers' personal information."
+    },
+    {
+        "id_base": 6,
+        "id_page": 16,
+        "id_lang": 1,
+        "heading": "Open Account",
+        "subheading": "Current account",
+        "description": "To initiate transactions within ADbanking Quantum, it is mandatory for active customers to open a base account. The base account serves as a central hub for transferring funds to and from various savings or loan products, including the maturity amount. Additionally, if selected, the base account will be debited for all loan installment payments."
+    },
+    {
+        "id_base": 7,
+        "id_page": 17,
+        "id_lang": 1,
+        "heading": "Savings",
+        "subheading": "Saving Products",
+        "description": "Savings is a category of financial products offered by banks and other institutions to their customers in the form of savings accounts. These accounts offer the ability to earn interest on deposited money, with rates varying depending on factors such as balance and length of time. Withdrawals are also allowed, though some accounts may have restrictions or fees. Other types of savings products exist, such as high-yield savings accounts or CDs, which require depositing money for a fixed period in exchange for higher interest rates. Overall, savings products help customers save money and achieve their financial goals."
+    },
+    {
+        "id_base": 8,
+        "id_page": 18,
+        "id_lang": 1,
+        "heading": "Branch Setup",
+        "subheading": "Configuration",
+        "description": "During the application start, branches must set up their profiles with essential details such as agency name, institution code, and structure types to align with their operations. Additionally, branches must configure the share management module to provide shares to clients upon account opening. This is crucial for proper functioning of the system and ensuring that clients have access to the necessary features and services."
+    },
+    {
+        "id_base": 10,
+        "id_page": 20,
+        "id_lang": 1,
+        "heading": "Additional Fields",
+        "subheading": "Configuration",
+        "description": "Additional Fields are special information that is required for the respective client type forms while creation of the new client."
+    },
+    {
+        "id_base": 11,
+        "id_page": 21,
+        "id_lang": 1,
+        "heading": "Form Validation",
+        "subheading": "Configuration",
+        "description": "Form validation is the set of configuration that put validation  on the respective forms in application. "
+    },
+    {
+        "id_base": 12,
+        "id_page": 2,
+        "id_lang": 2,
+        "heading": "Groupe",
+        "subheading": "Gestion des acces",
+        "description": "Les groupes font référence à une collection d'utilisateurs et de politiques qui déterminent les autorisations pour ce groupe. Pour créer un groupe, les utilisateurs doivent d'abord créer des politiques et des utilisateurs, puis les ajouter au groupe. Cela permet une gestion efficace des autorisations pour plusieurs utilisateurs en même temps."
+    },
+    {
+        "id_base": 13,
+        "id_page": 4,
+        "id_lang": 2,
+        "heading": "Politique",
+        "subheading": "Gestion des acces",
+        "description": "Une politique est un ensemble de permissions qui permet l'accès à des pages spécifiques pour différents types d'utilisateurs. Elles peuvent être personnalisées pour permettre des niveaux d'accès variables et sont régulièrement mises à jour pour refléter les changements de rôles d'utilisateurs ou de structure organisationnelle. Des politiques claires sont essentielles pour assurer un accès équitable et cohérent pour tous les utilisateurs."
+    },
+    {
+        "id_base": 14,
+        "id_page": 6,
+        "id_lang": 2,
+        "heading": "Utilisateurs",
+        "subheading": "Gestion des acces",
+        "description": "Les utilisateurs jouent un rôle crucial dans les applications professionnelles car ils accèdent et effectuent des opérations bancaires telles que le transfert de fonds, la consultation des soldes de compte et le paiement des factures. Une interface conviviale est importante pour améliorer l'expérience utilisateur et accroître la satisfaction des clients. Les développeurs doivent donner la priorité à la sécurité des données des utilisateurs pour se protéger contre les cyberattaques et les violations de sécurité, tout en offrant des fonctionnalités supplémentaires telles que la consultation de l'historique des transactions, la mise à jour des informations personnelles et la communication avec le service client via l'application."
+    },
+    {
+        "id_base": 15,
+        "id_page": 15,
+        "id_lang": 2,
+        "heading": "Flux de travail",
+        "subheading": "Flux de travail",
+        "description": "Le flux de travail est un mécanisme d'approbation puissant qui permet le traitement des demandes soumises par les utilisateurs, géré par des utilisateurs privilégiés qui peuvent approuver ou rejeter les demandes. Il garantit l'efficacité et la transparence du processus, en définissant les rôles et les responsabilités de chaque utilisateur, permettant le suivi de l'état des demandes et la prise de décision en temps opportun. Ce composant est essentiel pour une gestion efficace des demandes, garantissant un traitement rapide et efficace des demandes tout en rationalisant le processus d'approbation."
+    },
+    {
+        "id_base": 16,
+        "id_page": 8,
+        "id_lang": 2,
+        "heading": "Nouveau client",
+        "subheading": "Gestion des clients",
+        "description": "Adbanking propose des moyens flexibles pour créer de nouveaux clients, y compris les clients étrangers, résidents, d'entreprise, informels et les groupes de solidarité. Le processus KYC est obligatoire pour la conformité et la vérification des informations personnelles, assignant un numéro de compte d'épargne par défaut. Le système de gestion de clientèle d'Adbanking offre une manière sûre et efficace de gérer les clients tout en rationalisant le processus de création, réduisant les risques de crimes financiers et protégeant les informations personnelles des clients."
+    },
+    {
+        "id_base": 17,
+        "id_page": 16,
+        "id_lang": 2,
+        "heading": "Ouvrir un compte",
+        "subheading": "Current account",
+        "description": "Pour initier des transactions dans ADbanking Quantum, il est obligatoire pour les clients actifs d'ouvrir un compte de base. Le compte de base sert de centre névralgique pour transférer des fonds vers différents produits d'épargne ou de prêt, y compris le montant de maturité. De plus, si sélectionné, le compte de base sera débité pour tous les paiements d'installments de prêt."
+    },
+    {
+        "id_base": 18,
+        "id_page": 17,
+        "id_lang": 2,
+        "heading": "Épargne",
+        "subheading": "Produits d'épargne",
+        "description": "Les produits d'épargne sont une catégorie de produits financiers offerts par les banques et autres institutions à leurs clients sous la forme de comptes d'épargne. Ces comptes offrent la possibilité de gagner des intérêts sur l'argent déposé, avec des taux variant en fonction de facteurs tels que le solde et la durée. Les retraits sont également autorisés, bien que certains comptes puissent avoir des restrictions ou des frais. D'autres types de produits d'épargne existent, tels que les comptes d'épargne à haut rendement ou les CD, qui nécessitent le dépôt d'argent pour une période fixe en échange de taux d'intérêt plus élevés. Dans l'ensemble, les produits d'épargne aident les clients à économiser de l'argent et à atteindre leurs objectifs financiers."
+    },
+    {
+        "id_base": 19,
+        "id_page": 19,
+        "id_lang": 1,
+        "heading": "Workflow Parameters",
+        "subheading": "Parameters",
+        "description": "At application startup, branches must configure their profile with essential details such as branch name, institution code, and structure types to align with their operations. Additionally, branches need to set up the stock management module to provide shares to customers when opening an account. This is crucial for the system's smooth operation and ensuring that customers have access to necessary features and services."
+    },
+    {
+        "id_base": 19,
+        "id_page": 19,
+        "id_lang": 1,
+        "heading": "Configuration succursale",
+        "subheading": "Configuration",
+        "description": "Au démarrage de l'application, les succursales doivent configurer leur profil avec des détails essentiels tels que le nom de l'agence, le code d'institution et les types de structure pour s'aligner sur leurs opérations. De plus, les succursales doivent configurer le module de gestion des actions pour fournir des actions aux clients lors de l'ouverture de compte. Cela est crucial pour le bon fonctionnement du système et garantir que les clients ont accès aux fonctionnalités et services nécessaires."
+    },
+    {
+        "id_base": 21,
+        "id_page": 20,
+        "id_lang": 2,
+        "heading": "Champs additionnels",
+        "subheading": "Configuration",
+        "description": "Les champs supplémentaires sont des informations spéciales requises pour les formulaires de chaque type de client lors de la création d'un nouveau client."
+    },
+    {
+        "id_base": 22,
+        "id_page": 21,
+        "id_lang": 2,
+        "heading": "Validation formulaire",
+        "subheading": "Configuration",
+        "description": "La validation de formulaire est l'ensemble de configurations qui mettent en place une validation sur les formulaires respectifs de l'application."
+    },
+    {
+        "id_base": 23,
+        "id_page": 29,
+        "id_lang": 1,
+        "heading": "Loan Product",
+        "subheading": "Create new loan product for your branch",
+        "description": "Eligible can create loan products for their branch. There are two type of loan products (i.e., general loan and overdraft)."
+    },
+    {
+        "id_base": 23,
+        "id_page": 29,
+        "id_lang": 2,
+        "heading": "Produit de crédit",
+        "subheading": "Créer un nouveau produit de prêt pour votre agence",
+        "description": "Les personnes éligibles peuvent créer des produits de prêt pour leur agence. Il existe deux types de produits de prêt (c'est-à-dire le prêt général et la marge de crédit)."
+    },
+    {
+        "id_base": 24,
+        "id_page": 30,
+        "id_lang": 1,
+        "heading": "KYC",
+        "subheading": "Know Your Customer",
+        "description": "KYC is a process used by businesses to verify the identity of their clients and customers, mitigating risks associated with financial crimes such as fraud, money laundering, and terrorist financing. It involves collecting personal information and documentation from customers and verifying it through various means. KYC compliance protects both businesses and customers, maintaining the integrity of the financial system and ensuring everyone plays by the rules in financial transactions."
+    },
+    {
+        "id_base": 24,
+        "id_page": 30,
+        "id_lang": 2,
+        "heading": "KYC",
+        "subheading": "Connaissez votre client",
+        "description": "Le KYC est un processus utilisé par les entreprises pour vérifier l'identité de leurs clients, réduisant les risques liés aux crimes financiers tels que la fraude, le blanchiment d'argent et le financement du terrorisme. Il implique la collecte d'informations personnelles et de documents auprès des clients, ainsi que leur vérification par divers moyens. La conformité au KYC protège à la fois les entreprises et les clients, maintient l'intégrité du système financier et garantit que tout le monde respecte les règles dans les transactions financières."
+    },
+    {
+        "id_base": 24,
+        "id_page": 31,
+        "id_lang": 1,
+        "heading": "Loan product status",
+        "subheading": "Loan product settings",
+        "description": "Loan product settings"
+    },
+    {
+        "id_base": 24,
+        "id_page": 31,
+        "id_lang": 2,
+        "heading": "État du produit de prêt",
+        "subheading": "État du produit de prêt",
+        "description": "État du produit de prêt."
+    },
+    {
+        "id_base": 9,
+        "id_page": 32,
+        "id_lang": 1,
+        "heading": "Application Setup",
+        "subheading": "Configuration",
+        "description": "Like branch setup, application setup is also required at the begining of the application start. This provide the configuration setup of the application and manage its behaviour while performing banking operations. "
+    },
+    {
+        "id_base": 20,
+        "id_page": 32,
+        "id_lang": 2,
+        "heading": "Configuration application",
+        "subheading": "Configuration",
+        "description": "Comme pour la configuration de la succursale, la configuration de l'application est également requise au début du démarrage de l'application. Cela permet la configuration de l'application et la gestion de son comportement lors de l'exécution d'opérations bancaires."
+    },
+    {
+        "id_base": 9,
+        "id_page": 33,
+        "id_lang": 1,
+        "heading": "Process Setup",
+        "subheading": "Process",
+        "description": "Process Setup. "
+    },
+    {
+        "id_base": 20,
+        "id_page": 33,
+        "id_lang": 2,
+        "heading": "Configuration du processus",
+        "subheading": "Configuration du processus",
+        "description": "Configuration du processus."
+    },
+    {
+        "id_base": 9,
+        "id_page": 34,
+        "id_lang": 1,
+        "heading": "Cash suply",
+        "subheading": "Cash",
+        "description": "Cash suply."
+    },
+    {
+        "id_base": 20,
+        "id_page": 34,
+        "id_lang": 2,
+        "heading": "Approvisionnement en espèces",
+        "subheading": "Espèces",
+        "description": "Approvisionnement en espèces."
+    }
+]
