@@ -3,6 +3,12 @@
     <a class="navbar-brand" routerLink="/">
       <img src="../../assets/Logo.png" alt="Hero-Buy Logo">
     </a>
+
+    <ng-template #anonymousUser>
+      <li  class="nav-item">
+        <a class="nav-link" routerLink="/login">Login</a>
+      </li>
+    </ng-template>
     <button
       class="navbar-toggler"
       type="button"
@@ -22,19 +28,20 @@
         <div class="row">
           <div class="col">
             <div ngbDropdown class="d-inline-block">
-              <a type="text" class="btn" id="dropdownBasic1" ngbDropdownToggle>
-                Username
+              <a *ngIf="user$ | async as user else anonymousUser" type="text" class="btn" id="dropdownBasic1" ngbDropdownToggle>
+                {{ user?.displayName }}
               </a>
               <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
                 <a class="dropdown-item" routerLink="my-orders">My orders</a>
-                <a class="dropdown-item" routerLink="/admin/orders">Manage my orders</a>
-                <a class="dropdown-item" routerLink="/admin/products">Manage my psroducts</a>
-                <a class="dropdown-item">Log out</a>
+                <a class="dropdown-item" routerLink="/admin/orders">Manage orders</a>
+                <a class="dropdown-item" routerLink="/admin/products">Manage psroducts</a>
+                <a class="dropdown-item" (click)="logout()">Log out</a>
 
               </div>
             </div>
           </div>
         </div>
+        
       </ul>
     
     </div>
