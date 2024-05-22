@@ -19,6 +19,7 @@ import { AdminOrdersComponent } from './admin/admin-orders/admin-orders.componen
 import { RouterModule } from '@angular/router';
 import { LoginComponent } from './login/login.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { LandingPageComponent } from './landing-page/landing-page.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     MyOrdersComponent,
     LoginComponent,
     AdminProductsComponent,
-    AdminOrdersComponent
+    AdminOrdersComponent,
+    LandingPageComponent
     ],
   imports: [
     BrowserModule,
